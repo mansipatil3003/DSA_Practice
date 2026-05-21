@@ -17,7 +17,7 @@ public class sumofmatrix_column {
                 sum += arr[i][j];
             }
 
-            System.out.println("Column " + (j + 1) + " : " + sum);
+            System.out.println("Crolumn " + (j + 1) + " : " + sum);
         }
     }
 }
