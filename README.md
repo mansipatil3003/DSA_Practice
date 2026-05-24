@@ -38,7 +38,7 @@ I use this space to improve problem-solving skills, strengthen coding fundamenta
 ✨ LeetCode solutions  
 ✨ Logic building programs  
 ✨ Searching & Sorting algorithms  
-✨ Interview preparation problem
+✨ Interview preparation problems
 
 ---
 
