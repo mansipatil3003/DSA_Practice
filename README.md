@@ -28,7 +28,7 @@ I use this space to improve problem-solving skills, strengthen coding fundamenta
 
 - Java ☕
 - VS Code
-- Git & GitHub
+- Git & GitH
 
 ---
 
